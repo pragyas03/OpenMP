@@ -17,9 +17,9 @@
 
 # Output Screenshots
 
-![Output -1](https://github.com/pragyas03/OpenMP/blob/main/Output_1.png)
-![Output -2](https://github.com/pragyas03/OpenMP/blob/main/Output_2.png)
-![Output -3](https://github.com/pragyas03/OpenMP/blob/main/Output_3.png)
+![Output -1](https://github.com/pragyas03/OpenMP/blob/main/Output_1.png) <br><br>
+![Output -2](https://github.com/pragyas03/OpenMP/blob/main/Output_2.png) <br><br>
+![Output -3](https://github.com/pragyas03/OpenMP/blob/main/Output_3.png) <br><br>
 
 
 # Achieved Speedup
